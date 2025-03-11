@@ -12,6 +12,7 @@
     right: 20px;
     justify-content: flex-end;
     border-radius: 20px;
+    background-color: transparent;
 }
 button{
     background-color: #34cec6;
